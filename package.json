@@ -1,0 +1,18 @@
+{
+	"license": "ISC",
+	"author": "MediaMonks",
+	"dependencies": {
+		"gulp": "*",
+		"gulp-sass": "*",
+		"browser-sync": "*"
+	},
+	"description": "Dev-Exercises---Cat-Clicker",
+	"main": "",
+	"version": "1.0.0",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"name": "Dev-Exercises---Cat-Clicker"
+}
